@@ -6,7 +6,7 @@
         Kai Yun
         kaiyun2021@u.northwestern.edu
         773-964-2148
-        linkedin.com/in/kai
+        linkedin.com/in/kai-hyperion-yun
 
 <!---
 kaihyperion/kaihyperion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
