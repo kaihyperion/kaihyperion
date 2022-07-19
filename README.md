@@ -1,17 +1,21 @@
 - 👋 Hi, I’m [Kai Hyperion Yun](https://www.linkedin.com/in/kai-hyperion-yun) (Linkedin)
+Currently, I am a JellySmack Backend Software Engineer!
 - 👀 I’m interested in Neuro-Symbolic A.I./ Machine Learning/Deep Learning/Neural Network, and Algorithms and Design.
 - 🌱 I’m currently a Computer Science Student At Northwestern University.
-- 💞️ I’m looking to collaborate on any Machine Learning projects or anything fun with coding! It would be interesting to work into automated driving and interactive vehicle technology as well.
+- 💞️ I’m looking to collaborate on any Machine Learning projects or anything fun with coding! 
 - 📫 How to reach me:
 <kaiyun2021@u.northwestern.edu>
 
-Weapons in my arsenal:
-Python, Octave, MATLAB, D3js, C++, PyTorch, HTML/CSS/JS, Conda
 
-Experience with Data Collection:
-- YouTube Data Collecting/Cleaning using YouTube DATA V3 API, Analytics API, Reporting API w/ code implementation for OAUTH2.0 token authentication.
-- Clean data using Numpy
-- Prototype with data using Octave
+Weapons in my armory:
+Python, Octave, MATLAB, D3js, C++, PyTorch, HTML/CSS/JS, Conda, StreamLit, OAUTH2.0, plotly
+
+Experience with Data Aquisition:
+- Created and deployed a web application (with the use of StreamLit) that is fully capable of acquisition of public/private YouTube data utilizing all 3 YouTube APIs (DATA V3, Analytics API, Reporting API)
+- Self-implemented OAUTH2.0 Token Authentication for Private YouTube Content Creator data access.
+- Currently deployed and is currently a frequently used as JellySmack's Internal Data Acquisition!
+
+
 
 Fun Websites:
 
