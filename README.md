@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me  
-- 🛠 Founding Software Engineer @ **[Tunnel](https://www.linkedin.com/company/tunnel-ai/)**  
+- 🛠 Full-Stack Developer @ **[Tunnel](https://www.linkedin.com/company/tunnel-ai/)**  
 - 🧠 Built + sold **Authentic Media Ascension** → acquired by Jellysmack  
 - 🎓 Northwestern CS grad  
 - 🎬 Passion: smashing AI + film together (trailers, dubbing, pitch decks, you name it)  
